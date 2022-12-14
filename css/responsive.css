@@ -77,7 +77,7 @@
     }
 
     .header::before {
-        background-image: url(../images/wave-sm.svg);
+        background-image: url(../img/wave-sm.svg);
     }
 
     .header .header-info {padding: 15px 0;}

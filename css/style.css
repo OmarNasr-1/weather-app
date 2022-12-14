@@ -23,7 +23,7 @@ html {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background-image: url(../images/wave-lg.svg);
+    background-image: url(../img/wave-lg.svg);
     background-repeat: no-repeat;
     background-position: top center ;
 }
